@@ -1,0 +1,1 @@
+Open Server program and Client program, run the server first and then run the client. Write integer numbers on the console of client and, the server will return the odd integers which will be printed on the Client console.

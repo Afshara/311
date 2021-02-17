@@ -1,0 +1,2 @@
+To run open the program using Intellij or Eclipse and click on run. The programs
+has two types of input function- Console or File. For File, please choose the testfile in storedFiles folder, there is a file called testfile already, so you can choose File input option and type "testfile" to load the file. Type "a" to add a line, "d" to delete a line, "p" to print the lines and "q" to quit the system.
